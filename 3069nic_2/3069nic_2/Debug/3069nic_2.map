@@ -1,0 +1,49 @@
+Optimizing Linkage Editor (V.9.05.01.000)         14-Jan-2015 17:39:35
+
+*** Options ***
+
+-subcommand=C:\WorkSpace\3069nic_2\3069nic_2\Debug\3069nic_2.hlk
+-noprelink
+-rom=D=R
+-nomessage
+-list="C:\WorkSpace\3069nic_2\3069nic_2\Debug\3069nic_2.map"
+-nooptimize
+-start=PResetPRG,PIntPRG/0400200,P,C,C$DSEC,C$BSEC,D/0400800,B,R/0404000,S/0408000
+-nologo
+-input="C:\WorkSpace\3069nic_2\3069nic_2\Debug\dbsct.obj"
+-input="C:\WorkSpace\3069nic_2\3069nic_2\Debug\main.obj"
+-input="C:\WorkSpace\3069nic_2\3069nic_2\Debug\resetprg.obj"
+-input="C:\WorkSpace\3069nic_2\3069nic_2\Debug\sbrk.obj"
+-input="C:\WorkSpace\3069nic_2\3069nic_2\Debug\timer.obj"
+-library="C:\WorkSpace\3069nic_2\3069nic_2\Debug\3069nic_2.lib"
+-output="C:\WorkSpace\3069nic_2\3069nic_2\Debug\3069nic_2.abs"
+-end
+
+*** Error information ***
+
+** L1100 (W) Cannot find "PIntPRG" specified in option "start"
+
+*** Mapping List ***
+
+SECTION                            START      END         SIZE   ALIGN
+
+$VECT0
+                                  00000000  00000003         4   2
+PResetPRG
+                                  00400200  00400215        16   2
+P
+                                  00400800  004037c5      2fc6   2
+C
+                                  004037c6  004038f7       132   2
+C$DSEC
+                                  004038f8  00403903         c   2
+C$BSEC
+                                  00403904  0040390b         8   2
+D
+                                  0040390c  00403933        28   2
+B
+                                  00404000  00404c7d       c7e   2
+R
+                                  00404c7e  00404ca5        28   2
+S
+                                  00408000  004081ff       200   2

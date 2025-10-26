@@ -1,0 +1,5 @@
+-cpu=300HA:24
+-output="C:\WorkSpace\3069nic_2\3069nic_2\Debug\3069nic_2.lib"
+-ecpp
+-head=runtime,new,ctype,math,mathf,stdarg,stdio,stdlib,string
+-lang=c

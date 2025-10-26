@@ -1,0 +1,9 @@
+-cpu=300HA:24
+-lang=c
+-object="C:\WorkSpace\3069nic_2\3069nic_2\Debug\resetprg.obj"
+-outcode=sjis
+-debug
+-nolist
+-chgincpath
+"C:\WorkSpace\3069nic_2\3069nic_2\resetprg.c"
+-nologo

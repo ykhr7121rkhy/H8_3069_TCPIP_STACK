@@ -1,0 +1,31 @@
+[HIMDBVersion]
+2.0
+[DATABASE_VERSION]
+"1.2" 
+[CURRENT_PROJECT]
+"3069nic_2" 
+[GENERAL_DATA]
+[BREAKPOINTS]
+[OPEN_WORKSPACE_FILES]
+"C:\WorkSpace\3069nic_2\3069nic_2\intprg.c" 
+"C:\WorkSpace\3069nic_2\3069nic_2\iodefine.h" 
+"C:\WorkSpace\3069nic_2\3069nic_2\main.c" 
+"C:\WorkSpace\3069nic_2\3069nic_2\resetprg.c" 
+"C:\WorkSpace\3069nic_2\3069nic_2\RTL8019AS.h" 
+"C:\WorkSpace\3069nic_2\3069nic_2\sbrk.c" 
+"C:\WorkSpace\3069nic_2\3069nic_2\tcpip_header.h" 
+"C:\WorkSpace\3069nic_2\3069nic_2\timer.c" 
+"C:\WorkSpace\3069nic_2\3069nic_2\timer.h" 
+[WORKSPACE_FILE_STATES]
+"C:\WorkSpace\3069nic_2\3069nic_2\RTL8019AS.h" 22 29 702 295 0 1 
+"C:\WorkSpace\3069nic_2\3069nic_2\intprg.c" 44 58 702 295 0 2 
+"C:\WorkSpace\3069nic_2\3069nic_2\iodefine.h" 44 58 702 295 0 7 
+"C:\WorkSpace\3069nic_2\3069nic_2\main.c" 0 0 1036 707 0 0 
+"C:\WorkSpace\3069nic_2\3069nic_2\resetprg.c" 22 29 702 295 0 6 
+"C:\WorkSpace\3069nic_2\3069nic_2\sbrk.c" 0 0 702 295 0 5 
+"C:\WorkSpace\3069nic_2\3069nic_2\tcpip_header.h" -8 -30 1084 707 1 8 
+"C:\WorkSpace\3069nic_2\3069nic_2\timer.c" 88 116 702 295 0 3 
+"C:\WorkSpace\3069nic_2\3069nic_2\timer.h" 110 145 702 295 0 4 
+[LOADED_PROJECTS]
+"3069nic_2" 
+[END]
