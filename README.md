@@ -9,4 +9,3 @@ Features:
 - ARP, ICMP (Ping)
 - UDP, TCP (SYN/ACK, FIN)
 - SNTP client
-- Compact (<10KB code)
